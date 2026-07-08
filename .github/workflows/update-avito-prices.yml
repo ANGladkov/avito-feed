@@ -1,0 +1,32 @@
+name: Обновление цен и наличия Авито
+on:
+  schedule:
+    - cron: '0 6 * * *'        # каждый день в 06:00 UTC = 09:00 МСК
+  workflow_dispatch: {}         # плюс кнопка «запустить вручную»
+permissions:
+  contents: write
+concurrency:
+  group: avito-prices
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Обновить цены и наличие из YML сайта
+        run: python3 update_prices.py
+      - name: Закоммитить, только если что-то изменилось
+        run: |
+          git config user.name "avito-price-bot"
+          git config user.email "bot@sportlife.local"
+          if ! git diff --quiet avito.xml; then
+            git add avito.xml
+            git commit -m "auto: обновление цен и наличия $(date -u +%F)"
+            git push
+            echo "Фид обновлён и запушен."
+          else
+            echo "Цены и наличие не изменились — коммит не нужен."
+          fi
