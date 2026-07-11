@@ -10048,7 +10048,7 @@
 По Москве, Санкт-Петербургу и Екатеринбургу — курьером в день заказа
 
 В наличии. Напишите — поможем выбрать размер и расцветку, есть другие цвета.]]></Description>
-    <Price>110105</Price>
+    <Price>129105</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/ANGladkov/avito-feed/main/SL1201-2.png"/>
       <Image url="https://magazin-sportlife.ru/uploads/images/2025/09/f8ad1207ba8364bbf87a0b69d62beee2-md.jpg"/>
@@ -11824,7 +11824,8 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Аксессуар</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Аксессуар</ProductSubType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -11853,7 +11854,8 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Аксессуар</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Аксессуар</ProductSubType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -11884,7 +11886,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -11911,7 +11915,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -11938,7 +11944,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -11965,7 +11973,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -11992,7 +12002,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12019,7 +12031,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12046,7 +12060,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12073,7 +12089,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12100,7 +12118,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12127,7 +12147,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12154,7 +12176,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12181,7 +12205,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12207,7 +12233,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12234,7 +12262,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12260,7 +12290,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12286,7 +12318,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12312,7 +12346,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12339,7 +12375,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12366,7 +12404,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12393,7 +12433,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12419,7 +12461,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12446,7 +12490,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12473,7 +12519,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12500,7 +12548,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12527,7 +12577,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12554,7 +12606,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12580,7 +12634,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12606,7 +12662,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12632,7 +12690,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12658,7 +12718,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12685,7 +12747,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12712,7 +12776,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12739,7 +12805,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12766,7 +12834,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12793,7 +12863,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12820,7 +12892,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Кожаный</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12847,7 +12921,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12873,7 +12949,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12900,7 +12978,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12927,7 +13007,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12954,7 +13036,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -12981,7 +13065,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Силикон</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -13007,7 +13093,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -13034,7 +13122,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -13061,7 +13151,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -13088,7 +13180,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -13115,7 +13209,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -13142,7 +13238,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -13169,7 +13267,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
@@ -13196,7 +13296,9 @@
     <Address>Санкт-Петербург, Большая Зеленина ул., 24</Address>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
-    <ProductType>Ремешок или браслет</ProductType>
+    <ProductType>Наручные или карманные</ProductType>
+    <ProductSubType>Ремешок или браслет</ProductSubType>
+    <StrapType>Текстиль</StrapType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Brand>WHOOP</Brand>
